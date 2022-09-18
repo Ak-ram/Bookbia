@@ -343,6 +343,14 @@ body {
   #HEADER
 \*-----------------------------------*/
 
+.logo{
+  font-size: 3.5rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: .3rem
+}
+
 .header-top :is(.input-wrapper, .header-action-btn:last-child),
 .header-contact-link { display: none; }
 
