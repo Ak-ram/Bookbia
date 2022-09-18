@@ -29,4 +29,4 @@ git clone https://github.com/codewithsadee/booken.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/ak-ram).
+If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/ak-ram).
